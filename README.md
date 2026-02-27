@@ -11,4 +11,4 @@ The purpose of this repository is to strengthen analytical thinking, improve dat
 
 Below you can find all the projects included on this repository and their corresponding link sources.
 
-1. Credit_risk_customers : https://www.kaggle.com/datasets/ppb00x/credit-risk-customers
+1. fraud_analysis : https://www.kaggle.com/datasets/isabbaggin/transaction-fraudulent-financial-syntheticdata
