@@ -7,3 +7,8 @@ The projects in this repository emphasize understanding data deeply before model
 The primary libraries used throughout these projects include NumPy for numerical operations, Pandas for data manipulation and analysis, Matplotlib for foundational plotting, and Seaborn for statistical visualization. 
 
 The purpose of this repository is to strengthen analytical thinking, improve data handling skills, and build a professional portfolio that demonstrates practical experience in solving data-driven problems using Python.
+
+
+Below you can find all the projects included on this repository and their corresponding link sources.
+
+1. Credit_risk_customers : https://www.kaggle.com/datasets/ppb00x/credit-risk-customers
