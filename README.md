@@ -11,6 +11,6 @@ The purpose of this repository is to strengthen analytical thinking, improve dat
 All projects were developed in the VS Code environment, with version control managed through Git (using Bash). Code was regularly committed and pushed to GitHub via the integrated VS Code extension, ensuring structured version tracking and reproducibility.
 Below you can find all the projects included on this repository and their corresponding link sources.
 
-1. fraud_analysis : https://www.kaggle.com/datasets/isabbaggin/transaction-fraudulent-financial-syntheticdata
+1. Transaction_fraud_analysis : https://www.kaggle.com/datasets/isabbaggin/transaction-fraudulent-financial-syntheticdata
 
      This project demonstrates end-to-end data cleaning, transformation, and fraud analytics using Python. It includes EDA, merchant and customer risk profiling, time-window fraud burst analysis, interaction analysis, and revenue impact assessment on a 10,000-record synthetic dataset. The goal is to showcase structured analytical methodology and fraud investigation techniques.
