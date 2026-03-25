@@ -14,3 +14,8 @@ Below you can find all the projects included on this repository and their corres
 1. Transaction_fraud_analysis : https://www.kaggle.com/datasets/isabbaggin/transaction-fraudulent-financial-syntheticdata
 
      This project demonstrates end-to-end data cleaning, transformation, and fraud analytics using Python. It includes EDA, merchant and customer risk profiling, time-window fraud burst analysis, interaction analysis, and revenue impact assessment on a 10,000-record synthetic dataset. The goal is to showcase structured analytical methodology and fraud investigation techniques.
+
+
+2. Messy E-commerse Sales Date : https://www.kaggle.com/datasets/kandeelai22/messy-e-commerce-sales-dataset
+
+    This project focuses on cleaning and analyzing a messy e-commerce dataset from Kaggle , transforming raw data into a structured format suitable for analysis. The workflow includes handling missing values, correcting data types, and resolving inconsistencies across numerical and categorical features. Finally, exploratory data analysis and visualizations were performed to uncover insights into revenue, order behavior, and sales trends.
